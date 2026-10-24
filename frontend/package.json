@@ -70,7 +70,7 @@
         "@vue/compiler-sfc": "^3.5.43",
         "autoprefixer": "^10.6.1",
         "esbuild": "^0.28.2",
-        "eslint": "^10.8.0",
+        "eslint": "^10.13.0",
         "eslint-config-prettier": "^10.1.8",
         "eslint-plugin-prettier": "^5.5.6",
         "eslint-plugin-vue": "^10.10.0",
